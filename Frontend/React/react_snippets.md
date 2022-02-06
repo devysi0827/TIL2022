@@ -1,0 +1,19 @@
+# react_snippets
+
+![react_snippets](/home/seil/Desktop/React 문서/react 이미지파일/react_snippets.png)
+
+
+
+- 새로운 js파일을 생성하였을 때, rfce를 치면 아래와 같은 기본 세팅이 생긴다.
+
+```js
+import React from 'react';
+
+function Expenses() {
+  return <div></div>;
+}
+
+export default Expenses;
+
+```
+
