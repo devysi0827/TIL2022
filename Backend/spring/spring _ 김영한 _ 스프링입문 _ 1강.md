@@ -4,7 +4,7 @@
 
 - spring boot 기본 생성도구를 이용 => https://start.spring.io/
 
-![spring _ 김영한 _ 스프링입문 _ 1강](./spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강.png)
+  <img src = "./spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강.png "/>
 
 ### maven vs gradle
 
@@ -12,14 +12,13 @@
 
 - 예전에 legacy 프로젝트들은 maven, 요즘 프로젝트들은 gradle들을 사용하는 추세 
 
-![image-20200229230615472 (1)](./image-20200229230615472 (1).png)
+  
 
 ### language
 
 - java
-- 
 
-<img src = "./spring _ 김영한 _ 스프링입문 _ 1강.assets/image-20200229230615472 (1).png"/>
+  
 
 ### Spring boot
 
@@ -58,7 +57,7 @@
 
 ### folder tree 
 
-![spring _ 김영한 _ 스프링입문 _ 1강_1](/home/seil/Desktop/신입프로젝트 문서/spring/spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강_1.png)
+<img src = "./spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강_1.png"/>
 
 - graddle : graddle 관련 폴더
 - src/main/java : 실제  package와 source 파일들이 존재
@@ -85,7 +84,7 @@ cf). graddle을 이용한 실행 대신 intellij로 바로 실행하기
 - gradle 검색
 - 중앙에  `build and run using`, `run tests using`을 intelllij idea로 바꿔주기 
 
-![spring _ 김영한 _ 스프링입문 _ 1강2](/home/seil/Desktop/신입프로젝트 문서/spring/spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강2.png)
+<img src="./spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강2.png"/>
 
 
 
