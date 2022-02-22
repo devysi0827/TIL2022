@@ -4,7 +4,7 @@
 
 - spring boot 기본 생성도구를 이용 => https://start.spring.io/
 
-![spring _ 김영한 _ 스프링입문 _ 1강](/home/seil/Desktop/신입프로젝트 문서/spring/spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강.png)
+![spring _ 김영한 _ 스프링입문 _ 1강](./spring _ 김영한 _ 스프링입문 _ 1강.assets/spring _ 김영한 _ 스프링입문 _ 1강.png)
 
 ### maven vs gradle
 
