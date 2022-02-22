@@ -19,7 +19,7 @@
 - java
 - 
 
-![image-20200229230615472 (1)](./spring _ 김영한 _ 스프링입문 _ 1강.assets/image-20200229230615472 (1).png)
+<img src = "./spring _ 김영한 _ 스프링입문 _ 1강.assets/image-20200229230615472 (1).png"/>
 
 ### Spring boot
 
