@@ -1,5 +1,9 @@
 # Readme
 
+### 1day 1TIL
 
+- algorithm
 
-git setting
+### rule
+
+- commit rule : "study name" + til
