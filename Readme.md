@@ -3,6 +3,10 @@
 ### 1day 1TIL
 
 - Algorithm
+  - Greedy
+  - BFS
+  - DFS
+
 - Cs
 - Backend
 - Frontend
