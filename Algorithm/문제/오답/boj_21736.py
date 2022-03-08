@@ -6,7 +6,7 @@ for i in range(n):
     temp_campus = list(input())
     school_map.append(temp_campus)
 
-visited = [[0] * m for _ in range(n)]
+visited = [[0] * m for _ in range(n)]# error
 
 
 def find_me():
