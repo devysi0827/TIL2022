@@ -6,10 +6,14 @@
   - Greedy
   - BFS
   - DFS
-
 - Cs
 - Backend
 - Frontend
+  - JS
+  - TypeScript
+  - React
+    - Component
+
 
 
 
