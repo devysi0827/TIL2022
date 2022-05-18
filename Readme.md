@@ -1,34 +1,22 @@
 # Readme
 
-### 1day 1TIL
+### 1Day 1TIL
 
-- Algorithm
-  - Greedy
-  - BFS
-  - DFS
-- Cs
-- Backend
-- Frontend
-  - JS
-  - TypeScript
-  - React
-    - Component
+- commit rule : [study type] + "TIL Name"
+
+```
+fe, be, cs, algo, etc
+```
+
+- start time : 2022.05.18 ~ 
+- 주말 휴식, 휴일은 쉬지 않음.
 
 
 
+### Goal
 
-### rule
-
-- commit rule : "study name" + til
-
-
-
-### 점검
-
-2/2 : 시작, 이전은 라식수술로 인해서 하지 못함.
-
-3/6 : 꾸준히 잘하는중. 하지만 이제부터는 우선순위를 알고리즘에 둘 것, 현재 백준 실버5, til 내용으로 블로그도 운영시작할 것. 
-
-3/17 : git error check..
-
-4/4 : 꾸준히 하지 못한 걸 반성하고 재시작
+- Algo 실력 상승
+- 전반적인 전공자 이상의 CS 지식
+- 진로 설정
+- 개인 토이 프로젝트 제작 및 배포
+- Docker 등 다양한 기본 프로그램 사용법 숙지
