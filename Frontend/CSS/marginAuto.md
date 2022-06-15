@@ -6,4 +6,6 @@
 
 예시 :   right-marign을 준 요소로 인하여 left 요소들이 우측으로 정렬되었다.
 
-<img src='C:\Users\sell\AppData\Roaming\Typora\typora-user-images\image-20220608165149598.png'/>
+
+
+<img src='marginAuto.assets/image-20220608165149598.png'/>
