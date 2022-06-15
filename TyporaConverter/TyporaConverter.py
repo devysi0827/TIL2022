@@ -7,11 +7,11 @@ input_name = input()
 file_name = "./" + str(input_name) +".md"
 
 #read file
-readFile = open("./test.md", "r", encoding='UTF8')
+readFile = open(file_name, "r", encoding='UTF8')
 contents = readFile.readlines()
 
 # write file
-writeFile = open("./test.md", "w", encoding='UTF8')
+writeFile = open(file_name, "w", encoding='UTF8')
 for i in range(len(contents)):
     text = contents[i]
     if text[0:7] == '![image' :
