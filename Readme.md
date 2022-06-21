@@ -5,10 +5,11 @@
 - commit rule : [study type] + "TIL Name"
 
 ```
-fe, be, cs, algo, etc
+study type : fe, be, cs, algo, etc
+TIL Name : not css, react setstate, ....
 ```
 
-- start time : 2022.05.18 ~ 
+- start time : 2022.06.14 ~ 
 - 주말 휴식, 휴일은 쉬지 않음.
 
 
